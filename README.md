@@ -69,8 +69,8 @@ if (matriks[i][j] % 3 == 0|| matriks [i][j] % 5 == 0||matriks [i][j] % 7 == 0) c
 return 0;
 }
 ## Output
-Nama    : Yassar Malik Arrasyid
-NIM     : 1227050133
+<br>Nama    : Yassar Malik Arrasyid
+<br>NIM     : 1227050133
 ==========================================
 Program Array 2 dimensi input kolom dan baris dan input angkanya
 ==========================================
@@ -86,10 +86,10 @@ Baris 2, kolom 1 = 8
 Baris 2, kolom 2 = 9
 Baris 2, kolom 3 = 20
 
-Hasil matriks:
+<br>Hasil matriks:
   4   5   6
   8   9  20
-Hasil Matriks Terbalik:
+<br>Hasil Matriks Terbalik:
 4 8
 5 9
 6 20
