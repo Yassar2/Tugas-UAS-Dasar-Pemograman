@@ -6,7 +6,18 @@
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
+Tema dari source code ini adalah untuk:
+Membuat array 2 dimensi yang dapat mengubah sebuah kolom menjadi baris dan sebaliknya
+Juga dapat mencari bilangan yang habis dibagi jika dibagi oleh angka 3,5,dan 7.
 
+Algoritma dari source code ini:
+
+User menginputkan berapa banyak baris pada array yang akan dimasukan
+User menginputkan berapa banyak kolom pada array yang akan dimasukan
+User menginputkan nilai satu persatu pada array,dimulai dari baris 1 dan kolom 1.
+Setelah nilai-nilai di input, Nilai dalam array tersebut di tampilkan sesuai aturan matriks.
+Kemudian nilai dicek kembali apakah nilai tersebut dapat habis jika dibagi 3,5 dan 7.
+Jika nilai habis dibagi 3,5 dan 7, nilai akan ditampilkan kepada user. Jika tidak habis, nilai tidak akan ditampilkan kembali kepada user
 ## Source Code
 #include <iostream>
 #include <iomanip>
