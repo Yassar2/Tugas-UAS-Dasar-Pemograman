@@ -12,12 +12,12 @@ Juga dapat mencari bilangan yang habis dibagi jika dibagi oleh angka 3,5,dan 7.
 
 Algoritma dari source code ini:
 
-User menginputkan berapa banyak baris pada array yang akan dimasukan
-User menginputkan berapa banyak kolom pada array yang akan dimasukan
-User menginputkan nilai satu persatu pada array,dimulai dari baris 1 dan kolom 1.
-Setelah nilai-nilai di input, Nilai dalam array tersebut di tampilkan sesuai aturan matriks.
-Kemudian nilai dicek kembali apakah nilai tersebut dapat habis jika dibagi 3,5 dan 7.
-Jika nilai habis dibagi 3,5 dan 7, nilai akan ditampilkan kepada user. Jika tidak habis, nilai tidak akan ditampilkan kembali kepada user
+1. User menginputkan berapa banyak baris pada array yang akan dimasukan
+2. User menginputkan berapa banyak kolom pada array yang akan dimasukan
+3. User menginputkan nilai satu persatu pada array,dimulai dari baris 1 dan kolom 1.
+4. Setelah nilai-nilai di input, Nilai dalam array tersebut di tampilkan sesuai aturan matriks.
+5. Kemudian nilai dicek kembali apakah nilai tersebut dapat habis jika dibagi 3,5 dan 7.
+6. Jika nilai habis dibagi 3,5 dan 7, nilai akan ditampilkan kepada user. Jika tidak habis, nilai tidak akan ditampilkan kembali kepada user
 ## Source Code
 #include <iostream>
 #include <iomanip>
