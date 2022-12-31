@@ -80,31 +80,5 @@ if (matriks[i][j] % 3 == 0|| matriks [i][j] % 5 == 0||matriks [i][j] % 7 == 0) c
 return 0;
 }
 ## Output
-<br>Nama    : Yassar Malik Arrasyid
-<br>NIM     : 1227050133
-==========================================
-Program Array 2 dimensi input kolom dan baris dan input angkanya
-==========================================
+![Screenshot (49)](https://user-images.githubusercontent.com/119044557/210120783-9733cb38-95d4-4b4b-b956-fb725a89de71.png)
 
-Input jumlah baris matriks: 2
-Input jumlah kolom matriks: 3
-
-Baris 1, kolom 1 = 4
-Baris 1, kolom 2 = 5
-Baris 1, kolom 3 = 6
-
-Baris 2, kolom 1 = 8
-Baris 2, kolom 2 = 9
-Baris 2, kolom 3 = 20
-
-<br>Hasil matriks:
-  4   5   6
-  8   9  20
-<br>Hasil Matriks Terbalik:
-4 8
-5 9
-6 20
-==========================================
-Bilangan yang habis di bagi 3,5,7:
-
-5, 9, 0, 0,
